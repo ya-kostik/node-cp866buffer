@@ -1,6 +1,6 @@
 {
   "name": "node-cp866buffer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "\"Converting plaintext to CP866 Buffer",
   "main": "index.js",
   "scripts": {
