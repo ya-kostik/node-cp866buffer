@@ -1,7 +1,7 @@
 {
   "name": "node-cp866buffer",
   "version": "0.0.4",
-  "description": "\"Converting plaintext to CP866 Buffer",
+  "description": "Converting plaintext to CP866 Buffer",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,8 @@
   "keywords": [
     "cp866",
     "node",
-    "Buffer"
+    "Buffer",
+    "ibm866"
   ],
   "author": "Constantin Tsukanov",
   "license": "MIT",
