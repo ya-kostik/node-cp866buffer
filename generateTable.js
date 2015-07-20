@@ -1,7 +1,7 @@
 var fs = require("fs");
 var table = require("./CP866.json");
 
-var hex = 0x20;
+var hex = 0x00;
 var hexObj = {};
 
 var len = table.length;
